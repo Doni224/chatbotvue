@@ -8,6 +8,10 @@ Vue.config.productionTip = false
 global.jQuery = require('jquery');
 require('bootstrap');
 
+import AOS from 'aos';
+import 'aos/dist/aos.css'; 
+AOS.init();
+
 new Vue({
   router,
   render: h => h(App)

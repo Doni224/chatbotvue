@@ -1,5 +1,5 @@
 <template>
-<div class="id  bg-kontak">
+<div class="id  bg-kontak " data-aos="fade-up" data-aos-duration="1000">
     <div class="container-fluid"></div>
     
     <div class="kontakL row py-5">

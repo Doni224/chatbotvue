@@ -1,6 +1,6 @@
 <template>
-  <div class="id pt-5 pb-5">
-    <div class="container">
+  <div  class="id pt-5 pb-5">
+    <div data-aos="fade-up" data-aos-duration="1000" class="container">
         <div class="row">
           <div class="col-6 py-4">
                 <h3 class="mb-3">Semua Koleksi <hr> </h3>

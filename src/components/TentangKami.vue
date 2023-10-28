@@ -1,5 +1,5 @@
 <template>
-  <div class="id tentang">
+  <div data-aos="fade-up" data-aos-duration="1000" class="id tentang"  >
     <div class=" container  ">
         <div class="row">
             <div class="col-6 py-5">

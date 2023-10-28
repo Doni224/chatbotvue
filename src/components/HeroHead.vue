@@ -1,6 +1,6 @@
 <template>
  <div class="id">
-    <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
+    <div data-aos="fade-up" data-aos-duration="1000" id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
@@ -16,7 +16,7 @@
         <button type="button" class="btn btn-danger btn-lg">Mulai Chat</button>
       </div>
     </div>
-    <div class="carousel-item">
+    <div  class="carousel-item">
       <img src="../assets/img/slid2.png" class="d-block w-0 h-10" alt="...">
       <div class="carousel-caption " > 
         <p>Temukan Informasi Dengan Mudah Melalui</p>

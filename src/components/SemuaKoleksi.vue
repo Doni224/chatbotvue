@@ -14,7 +14,7 @@
         
 <div class="row">
     
-    <div class="col-lg-4">
+    <div class="col-lg-4 py-4">
         <div class="card" style="width: 18rem;">
   <img src="../assets/img/kapak.jpg" class="card-img-top" alt="...">
   <div class="card-body">
@@ -25,7 +25,7 @@
 </div>
     </div>
     
-    <div class="col-lg-4">
+    <div class="col-lg-4 py-4">
         <div class="card" style="width: 18rem;">
   <img src="../assets/img/alat batu.jpg" class="card-img-top img-inline" alt="...">
   <div class="card-body">
@@ -37,7 +37,7 @@
     </div>
     
     
-    <div class="col-lg-4">
+    <div class="col-lg-4 py-4">
         <div class="card" style="width: 18rem;">
   <img src="../assets/img/tengkorak.jpg" class="card-img-top" alt="...">
   <div class="card-body">
@@ -59,7 +59,7 @@
         
 <div class="row">
     
-    <div class="col-lg-4">
+    <div class="col-lg-4 py-4">
         <div class="card" style="width: 18rem;">
   <img src="../assets/img/gading.jpg" class="card-img-top" alt="...">
   <div class="card-body">
@@ -70,7 +70,7 @@
 </div>
     </div>
     
-    <div class="col-lg-4">
+    <div class="col-lg-4 py-4">
         <div class="card" style="width: 18rem;">
   <img src="../assets/img/gigi.jpg" class="card-img-top" alt="...">
   <div class="card-body">
@@ -111,9 +111,9 @@ name : 'SemuaKoleksi',
 
 <style>
 
-@media only screen and (max-width: 420px) {
+@media only screen and (max-width: 430px) {
     .slid-koleksi{
-        padding: 30px 30px 30px;
+        padding: 30px 40px 30px;
     }
 }
 </style>

@@ -77,9 +77,9 @@ font-weight: 600;
   border-radius: 5px; /* Ganti sesuai kebutuhan Anda */
   }
 }
-@media (max-width: 400px) {
+@media (max-width: 430px) {
   .d-block{
-    height: 50vh;
+    height: 60vh;
   }
   .carousel-caption p{
     font-size: 30px;

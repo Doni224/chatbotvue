@@ -41,7 +41,7 @@ name: "TentangKami"
     text-align: start;
     padding-top: 30px;
 }
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 420px) {
 .gbr{
     width: 360px;
     padding-top: 30px;

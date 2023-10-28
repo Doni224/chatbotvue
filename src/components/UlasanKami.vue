@@ -14,7 +14,7 @@
             
     <div class="row">
         
-        <div class="col-lg-4 ">
+        <div class="col-lg-4 py-3">
             <div class="card sadowulasan" style="width: 18rem; float: right;">
       <img src="../assets/img/ikon/edo.png" class="card-img-top ulas" alt="..." style="float: right;">
       <div class="card-body">
@@ -29,7 +29,7 @@
       </div>
     </div>
         </div>
-        <div class="col-lg-4 ">
+        <div class="col-lg-4 py-3">
             <div class="card sadowulasan" style="width: 18rem; float: right;">
       <img src="../assets/img/ikon/edo.png" class="card-img-top ulas" alt="..." style="float: right;">
       <div class="card-body">
@@ -44,7 +44,7 @@
       </div>
     </div>
         </div>
-        <div class="col-lg-4 ">
+        <div class="col-lg-4 py-3">
             <div class="card sadowulasan" style="width: 18rem; float: right;">
       <img src="../assets/img/ikon/edo.png" class="card-img-top ulas" alt="..." style="float: right;">
       <div class="card-body">

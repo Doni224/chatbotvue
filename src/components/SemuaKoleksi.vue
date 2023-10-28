@@ -61,7 +61,7 @@
     
     <div class="col-lg-4 py-4">
         <div class="card" style="width: 18rem;">
-  <img src="../assets/img/gading.jpg" class="card-img-top" alt="...">
+  <img src="../assets/img/kapak.jpg" class="card-img-top" alt="...">
   <div class="card-body">
     <h4 class="card-title">Gading</h4>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -72,7 +72,7 @@
     
     <div class="col-lg-4 py-4">
         <div class="card" style="width: 18rem;">
-  <img src="../assets/img/gigi.jpg" class="card-img-top" alt="...">
+  <img src="../assets/img/tengkorak.jpg" class="card-img-top" alt="...">
   <div class="card-body">
     <h4 class="card-title">Gigi Hiu</h4>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>

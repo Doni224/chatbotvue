@@ -6,7 +6,7 @@
     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
   </div>
-  <div class="carousel-inner">
+  <div data-aos="fade-up" data-aos-duration="1000"  class="carousel-inner">
     <div class="carousel-item active">
         
       <img src="../assets/img/Group 1.png" class="d-block w-0 h-10" alt="..."  >
@@ -55,7 +55,7 @@ name: "HeroHead",
 .carousel-caption {
   position: absolute;
   top: 40%;
- 
+ height: 60vh;
   padding: 10px; /* Padding di sekitar teks */
   border-radius: 5px; /* Ganti sesuai kebutuhan Anda */
 }

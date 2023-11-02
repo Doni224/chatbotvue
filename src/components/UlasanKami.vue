@@ -2,7 +2,7 @@
     <div data-aos="fade-up" data-aos-duration="1000"  class="id pt-5 pb-5">
         <div class="container">
             <div class="row">
-                <div class="col-6 py-4">
+                <div data-aos="fade-up" data-aos-duration="1000"  class="col-6 py-4">
                 <h3 class="mb-3">Ulasan Kami <hr> </h3>
             </div>
 
@@ -17,7 +17,7 @@
         <div class="col-lg-4 py-3">
             <div class="card sadowulasan" style="width: 18rem; float: right;">
       <img src="../assets/img/ikon/edo.png" class="card-img-top ulas" alt="..." style="float: right;">
-      <div class="card-body">
+      <div data-aos="fade-up" data-aos-duration="1000"  class="card-body">
         <h4 class="card-title">Rahmat</h4>
         <img src="../assets/img/ikon/Star 15.png" alt="" class="bintang">
         <img src="../assets/img/ikon/Star 15.png" alt="" class="bintang">
@@ -32,7 +32,7 @@
         <div class="col-lg-4 py-3">
             <div class="card sadowulasan" style="width: 18rem; float: right;">
       <img src="../assets/img/ikon/edo.png" class="card-img-top ulas" alt="..." style="float: right;">
-      <div class="card-body">
+      <div data-aos="fade-up" data-aos-duration="1000"  class="card-body">
         <h4 class="card-title">Rahmat</h4>
         <img src="../assets/img/ikon/Star 15.png" alt="" class="bintang">
         <img src="../assets/img/ikon/Star 15.png" alt="" class="bintang">
@@ -47,7 +47,7 @@
         <div class="col-lg-4 py-3">
             <div class="card sadowulasan" style="width: 18rem; float: right;">
       <img src="../assets/img/ikon/edo.png" class="card-img-top ulas" alt="..." style="float: right;">
-      <div class="card-body">
+      <div data-aos="fade-up" data-aos-duration="1000"  class="card-body">
         <h4 class="card-title">Rahmat</h4>
         <img src="../assets/img/ikon/Star 15.png" alt="" class="bintang">
         <img src="../assets/img/ikon/Star 15.png" alt="" class="bintang">

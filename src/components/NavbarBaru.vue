@@ -15,10 +15,10 @@
                                        <router-link class="nav-link active " to="/">Home</router-link>
                                    </li>
                                    <li class="nav-item">
-                                       <router-link class="nav-link" to="/about">Koleksi</router-link>
+                                       <router-link class="nav-link" to="/koleksi">Koleksi</router-link>
                                    </li>
                                    <li class="nav-item">
-                                       <router-link class="nav-link" to="/koleksi">Tentang Kami</router-link>
+                                       <router-link class="nav-link" to="/about">Tentang Kami</router-link>
                                    </li>
                                   
                                    <!-- <li class="nav-item btn">

@@ -13,7 +13,9 @@
       <div class="carousel-caption ">
         <p>Temukan Informasi Dengan Mudah Melalui</p>
         <h3>Virtual Assistant</h3>
-        <button type="button" class="btn btn-danger btn-lg">Mulai Chat</button>
+          <button class="btn btn-danger btn-lg"><router-link class="nav-link " to="/ChatBot">
+            Mulai Chat</router-link></button> 
+     
       </div>
     </div>
     <div  class="carousel-item">
@@ -21,7 +23,8 @@
       <div class="carousel-caption " > 
         <p>Temukan Informasi Dengan Mudah Melalui</p>
         <h3>Virtual Assistant</h3>
-        <button type="button" class="btn btn-danger btn-lg">Mulai Chat</button>
+        <button class="btn btn-danger btn-lg"><router-link class="nav-link " to="/ChatBot">
+            Mulai Chat</router-link></button> 
       </div>
     </div>
     <div class="carousel-item">
@@ -29,7 +32,8 @@
       <div class="carousel-caption ">
         <p>Temukan Informasi Dengan Mudah Melalui</p>
         <h3>Virtual Assistant</h3>
-        <button type="button" class="btn btn-danger btn-lg">Mulai Chat</button>
+        <button class="btn btn-danger btn-lg"><router-link class="nav-link " to="/ChatBot">
+            Mulai Chat</router-link></button> 
       </div>
     </div>
   </div>

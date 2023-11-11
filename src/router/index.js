@@ -24,6 +24,11 @@ const routes = [
   name: 'Koleksi',
   component: () => import(/* webpackChunkName: "about" */ '../views/KoleksiView.vue')
  },
+{
+  path: '/chatbot',
+  name: 'ChatBot',
+  component: () => import(/* webpackChunkName: "about" */ '../views/ChatbotView.vue')
+},
 ]
 
 const router = new VueRouter({

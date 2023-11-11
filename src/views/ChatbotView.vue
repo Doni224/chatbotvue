@@ -1,8 +1,8 @@
 <template>
-<div class="botchat">
+<div data-aos="fade-up" data-aos-duration="1000"  class="botchat">
          <!-- <img src="img/bigbang.jpg" alt="" style="position: relative;  width: 260%; height: 260px;"> -->
     <section class="msger">
-        <header class="msger-header">
+        <header data-aos="fade-up" data-aos-duration="1000"  class="msger-header">
           <div class="msger-header-title">
             <i class="fas fa-comment-alt"></i> SimpleChat
           </div>
@@ -11,8 +11,8 @@
           </div>
         </header>
       
-        <main class="msger-chat">
-          <div class="msg left-msg">
+        <main data-aos="zoom-in" data-aos-duration="2000"  class="msger-chat">
+          <div data-aos="fade-right" data-aos-duration="1000" class="msg left-msg">
             <div
              class="msg-img"
              style="background-image: url('../assets/img/ikon/edo.png')"
@@ -30,7 +30,7 @@
             </div>
           </div>
       
-          <div class="msg right-msg">
+          <div data-aos="fade-left" data-aos-duration="1000"  class="msg right-msg">
             <div
              class="msg-img"
              style="background-image: url(../assets/logo.png)"
